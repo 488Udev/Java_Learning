@@ -1,4 +1,5 @@
 public class Variables {
+    //VARIABLES ARE LIKE TEMP0RORY STORAGE BOX FOR DATA, IT CAN BE IN THE FORM OF NUMBERS, ALPHABETS, CC
     static void myoperators() {
         int myNum = 5;
         float myFloatNum = 5.99f;
