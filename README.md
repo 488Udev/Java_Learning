@@ -5,11 +5,11 @@ This is a basic repo to practice Java and learn,feel free to clone and see the b
 
 Feel free to make changes and practice along
 
-1) Variables
-Variables store data values in Java. They have types like int, double, String, and boolean.A variable must be declared before use: int age = 25;.
+1) Basics.Variables
+Basics.Variables store data values in Java. They have types like int, double, String, and boolean.A variable must be declared before use: int age = 25;.
 2) Operators
 Operators perform operations on variables and values in Java. They include arithmetic (+, -, *, /, %), comparison (==, !=, >, <), and logical (&&, ||, !).
-3) DataTypes
+3) Basics.DataTypes
 Data types define what kind of data a variable can store. Primitive types: int (numbers), double (decimals), char (letters), boolean (true/false).
 Non-primitive types: String (text), arrays, and objects.
 4) Stack and Heap

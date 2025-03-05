@@ -1,3 +1,5 @@
+package Basics;
+
 public class Variables {
     //VARIABLES ARE LIKE TEMP0RORY STORAGE BOX FOR DATA, IT CAN BE IN THE FORM OF NUMBERS, ALPHABETS, CC
     static void myoperators() {
