@@ -1,3 +1,5 @@
+package Basics;
+
 public class HeyWorld {
     public static void main (String args[]) {
         System.out.println("Hey , welcome, you can do this");

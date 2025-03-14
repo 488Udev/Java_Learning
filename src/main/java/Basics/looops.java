@@ -1,3 +1,5 @@
+package Basics;
+
 public class looops
 {
     public static void main (String[] args)

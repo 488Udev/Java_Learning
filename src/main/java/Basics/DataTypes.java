@@ -1,3 +1,5 @@
+package Basics;
+
 public class DataTypes {
     public static void main(String[] args) {
             // Declare variables which are primitives

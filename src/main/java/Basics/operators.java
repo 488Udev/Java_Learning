@@ -1,8 +1,10 @@
+package Basics;
+
 public class operators {
     public static void main (String args[]) {
         int x = 10;
         int y = 20;
-        //these are the basic operators
+        //these are the basic Basics.operators
         System.out.println(x+y);
         System.out.println(x-y);
         System.out.println(x>y);
