@@ -49,4 +49,4 @@ An interface is like a blueprint with only method declarations (no body). A clas
     They are used mainly with functional interfaces.
 21) Streams (Java 8)
     Streams process collections efficiently using functional programming.
-22) 
+22) Array is a stack or set of values  given in a single variable. 
